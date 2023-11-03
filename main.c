@@ -1,11 +1,6 @@
 #define ADD_MACRO(a, b) ((a) + (b))
 #include <stdio.h>
-<<<<<<< HEAD
-=======
-//modified again 14:43
-//DEV Version
-//Reviewer changes
->>>>>>> 63c512fdf57f71a20a5cea11cc687f574f52f3e4
+//Resolved Conflict
 int addFunction(int a, int b) {
     return a + b;
 }
